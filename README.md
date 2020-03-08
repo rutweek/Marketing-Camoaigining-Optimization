@@ -92,7 +92,7 @@ As seen from the chart, if the effective probability (social media) is between 0
 The above graph represents the one-way sensitivity analysis for SMS cost vs the EMV.
 We can infer from the above chart that any investment in SMS cost is insensitive to the variation in EMV and will get the same EMV of approximately $430,280.
 
-<img src="pti Images/One Way Sensitivity Analysis 4.png" width=700 height=500>
+<img src="Opti Images/One Way Sensitivity Analysis 4.png" width=700 height=500>
 
 
 
