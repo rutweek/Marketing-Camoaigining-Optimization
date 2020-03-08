@@ -61,7 +61,7 @@ SEO can be done by training existing team or can be done by outsourcing it to a 
 After analysing the above optimal decision tree, the best decision for Max Enterprises is to invest in Indirect Communication. If the company decides to choose Social Media as the indirect communication marketing strategy and if it is effective, then the company will earn $500,000. If it is ineffective, the company decides to choose SEO strategy which is led by the Indigenous SEO team in the company. If this marketing strategy is effective, the company will earn $650,000 and if it is ineffective the company would lose $200,000.
 However, the best optimal decision path for Max enterprises would be to choose the indigenous SEO team which benefit the company with a payoff of $430,250.
 
-<img src="Opti Images/Optimal Decision Tree.png" width=1000 height=500>
+<img src="Opti Images/Optimal Decision Tree.png" width=1000 height=350>
 
 ### Risk Profile
 
@@ -92,6 +92,7 @@ As seen from the chart, if the effective probability (social media) is between 0
 The above graph represents the one-way sensitivity analysis for SMS cost vs the EMV.
 We can infer from the above chart that any investment in SMS cost is insensitive to the variation in EMV and will get the same EMV of approximately $430,280.
 
+
 <img src="Opti Images/One Way Sensitivity Analysis 4.png" width=700 height=500>
 
 
@@ -111,7 +112,7 @@ From the Strategy Region chart of Sensitivity Analysis against the variation in 
 Moreover, it can be observed that direct communication and SEO are insensitive to variation.The decision of direct communication will never be the best decision for any value of EMV.
 
 
-<img src="<img src="Opti Images/Strategy 3.png" width=700 height=500>" width=700 height=500>
+<img src="Opti Images/Strategy 3.png" width=700 height=500>
 
 
 From the Strategy Region chart of Sensitivity Analysis against the variation in Newspaper effective probability, we can see that the optimal decision is to choose Indirect communication strategy as the best decision for any changes in the value of newspaper effective probability.
