@@ -29,7 +29,7 @@ It was found that there was an upward trend in all quarters
 Hence, the board decided to re-engineer marketing campaigns for the next fashion season release. An exhaustive marketing analysis was performed by the marketing team.
 
 
-<img src="Opti Images/Trends.png" width=700 height=500>
+<img src="Opti Images/Trends.png" width=1000 height=500>
 
 ## Possible Marketing Strategies
 ### Marketing Analysis
@@ -54,14 +54,14 @@ SEO can be done by training existing team or can be done by outsourcing it to a 
 *	Indigenous team – It includes the team training cost as well as using SEO software of around $200k with an effective rate of 55% and returns of 1000k and ineffective rate of 15% on and returns of $150k.
 *	Third-party SEO – The team decided to team up with VMW analytics, a SEO outsourcing company. The company charges $280k with an effective rate of 65% and returns of 1000k and ineffective rate of 35% on and returns of $300k.
 
-<img src="Opti Images/Marketing Overview.png" width=700 height=500>
+<img src="Opti Images/Marketing Overview.png" width=1000 height=500>
 
 ### Optimal Decision Tree
 
 After analysing the above optimal decision tree, the best decision for Max Enterprises is to invest in Indirect Communication. If the company decides to choose Social Media as the indirect communication marketing strategy and if it is effective, then the company will earn $500,000. If it is ineffective, the company decides to choose SEO strategy which is led by the Indigenous SEO team in the company. If this marketing strategy is effective, the company will earn $650,000 and if it is ineffective the company would lose $200,000.
 However, the best optimal decision path for Max enterprises would be to choose the indigenous SEO team which benefit the company with a payoff of $430,250.
 
-<img src="Opti Images/Optimal Decision Tree.png" width=700 height=500>
+<img src="Opti Images/Optimal Decision Tree.png" width=1000 height=500>
 
 ### Risk Profile
 
